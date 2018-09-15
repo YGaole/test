@@ -1,2 +1,2 @@
 # test
-test repository for learning python
+test repository for learning python.
